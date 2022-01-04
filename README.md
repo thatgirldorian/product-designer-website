@@ -4,7 +4,7 @@
 <h3>Function & Description:</h3>
 This is a personal website for a product designer. It showscases their areas of expertise, their skills, and a way to contact them.  
 
-Here, I mostly focused on a minimal clean design and did not add any JS fucntionality. 
+Here, I mostly focused on a minimal clean design and did not add any JS functionality. 
 
 <h3>Technology Used:</h3>
 
@@ -14,7 +14,7 @@ Here, I mostly focused on a minimal clean design and did not add any JS fucntion
 - Netlify
 
 <h3>Link to site:</h3>
-
+https://relaxed-goldberg-bcbebc.netlify.app/
 
 <h3>Screenshots:</h3>
 <img width="1792" alt="Screenshot 2022-01-05 at 1 47 22 AM" src="https://user-images.githubusercontent.com/40691059/148139173-a9826780-18cd-4e78-8739-975a11310b73.png">
