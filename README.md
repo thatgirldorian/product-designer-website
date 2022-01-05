@@ -2,7 +2,7 @@
 
 
 <h3>Function & Description:</h3>
-This is a personal website for a product designer. It showscases their areas of expertise, their skills, and a way to contact them.  
+This is a personal website for a product designer. It showcases their areas of expertise, their skills, and a way to contact them.  
 
 Here, I mostly focused on a minimal clean design and did not add any JS functionality. 
 
