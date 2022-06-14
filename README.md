@@ -14,7 +14,7 @@ Here, I mostly focused on a clean, minimal design and did not add any JS functio
 - Netlify
 
 <h3>Link to site:</h3>
-https://relaxed-goldberg-bcbebc.netlify.app/
+https://jade-portfolio.netlify.app/
 
 <h3>Screenshots:</h3>
 <img width="1792" alt="Screenshot 2022-01-05 at 1 47 22 AM" src="https://user-images.githubusercontent.com/40691059/148139173-a9826780-18cd-4e78-8739-975a11310b73.png">
